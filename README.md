@@ -125,7 +125,6 @@ Atualmente, o processo é executado a cada 2 dias.
 
 O fluxo de automação funciona assim:
 
-```text
 Agendador de Tarefas
         ↓
 executar_coleta.bat
